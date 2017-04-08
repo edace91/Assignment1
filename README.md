@@ -11,4 +11,4 @@ set three @media screen tags for the portfolio, each with one of these max-width
 
 Be able to update previous code to make it responsive. 
 
-[Deployed Project](https://mysterious-reef-41289.herokuapp.com/index.html"Deployed Project")
+https://mysterious-reef-41289.herokuapp.com/index.html
